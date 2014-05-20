@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		849C4F65192B300C00F05EAB /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F5C192B300C00F05EAB /* Icon-60@2x.png */; };
+		849C4F66192B300C00F05EAB /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F5D192B300C00F05EAB /* Icon-76.png */; };
+		849C4F67192B300C00F05EAB /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F5E192B300C00F05EAB /* Icon-76@2x.png */; };
+		849C4F68192B300C00F05EAB /* Icon-Small-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F5F192B300C00F05EAB /* Icon-Small-40.png */; };
+		849C4F69192B300C00F05EAB /* Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F60192B300C00F05EAB /* Icon-Small-40@2x.png */; };
+		849C4F6A192B300C00F05EAB /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F61192B300C00F05EAB /* Icon-Small.png */; };
+		849C4F6B192B300C00F05EAB /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F62192B300C00F05EAB /* Icon-Small@2x.png */; };
+		849C4F6C192B300C00F05EAB /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F63192B300C00F05EAB /* Icon.png */; };
+		849C4F6D192B300C00F05EAB /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F64192B300C00F05EAB /* Icon@2x.png */; };
+		849C4F75192B3D7700F05EAB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F6F192B3D7700F05EAB /* Default-568h@2x.png */; };
+		849C4F76192B3D7700F05EAB /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F70192B3D7700F05EAB /* Default-Portrait.png */; };
+		849C4F77192B3D7700F05EAB /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F71192B3D7700F05EAB /* Default@2x.png */; };
+		849C4F78192B3D7700F05EAB /* Landscape-None-Retina.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F72192B3D7700F05EAB /* Landscape-None-Retina.png */; };
+		849C4F79192B3D7700F05EAB /* Landscape-Retina.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F73192B3D7700F05EAB /* Landscape-Retina.png */; };
+		849C4F7A192B3D7700F05EAB /* Portrait-Retina.png in Resources */ = {isa = PBXBuildFile; fileRef = 849C4F74192B3D7700F05EAB /* Portrait-Retina.png */; };
 		849C94BE18FBFC1D00F9218A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849C94BD18FBFC1D00F9218A /* Foundation.framework */; };
 		849C94C018FBFC1D00F9218A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849C94BF18FBFC1D00F9218A /* CoreGraphics.framework */; };
 		849C94C218FBFC1D00F9218A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849C94C118FBFC1D00F9218A /* UIKit.framework */; };
@@ -36,6 +51,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		849C4F5C192B300C00F05EAB /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		849C4F5D192B300C00F05EAB /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		849C4F5E192B300C00F05EAB /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		849C4F5F192B300C00F05EAB /* Icon-Small-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-40.png"; sourceTree = "<group>"; };
+		849C4F60192B300C00F05EAB /* Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		849C4F61192B300C00F05EAB /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		849C4F62192B300C00F05EAB /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		849C4F63192B300C00F05EAB /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		849C4F64192B300C00F05EAB /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		849C4F6F192B3D7700F05EAB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		849C4F70192B3D7700F05EAB /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		849C4F71192B3D7700F05EAB /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		849C4F72192B3D7700F05EAB /* Landscape-None-Retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Landscape-None-Retina.png"; sourceTree = "<group>"; };
+		849C4F73192B3D7700F05EAB /* Landscape-Retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Landscape-Retina.png"; sourceTree = "<group>"; };
+		849C4F74192B3D7700F05EAB /* Portrait-Retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Retina.png"; sourceTree = "<group>"; };
 		849C94BA18FBFC1D00F9218A /* timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849C94BD18FBFC1D00F9218A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		849C94BF18FBFC1D00F9218A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -83,6 +113,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		849C4F5B192B300C00F05EAB /* AppIcon2 */ = {
+			isa = PBXGroup;
+			children = (
+				849C4F5C192B300C00F05EAB /* Icon-60@2x.png */,
+				849C4F5D192B300C00F05EAB /* Icon-76.png */,
+				849C4F5E192B300C00F05EAB /* Icon-76@2x.png */,
+				849C4F5F192B300C00F05EAB /* Icon-Small-40.png */,
+				849C4F60192B300C00F05EAB /* Icon-Small-40@2x.png */,
+				849C4F61192B300C00F05EAB /* Icon-Small.png */,
+				849C4F62192B300C00F05EAB /* Icon-Small@2x.png */,
+				849C4F63192B300C00F05EAB /* Icon.png */,
+				849C4F64192B300C00F05EAB /* Icon@2x.png */,
+			);
+			path = AppIcon2;
+			sourceTree = "<group>";
+		};
+		849C4F6E192B3D5D00F05EAB /* Заставки */ = {
+			isa = PBXGroup;
+			children = (
+				849C4F6F192B3D7700F05EAB /* Default-568h@2x.png */,
+				849C4F70192B3D7700F05EAB /* Default-Portrait.png */,
+				849C4F71192B3D7700F05EAB /* Default@2x.png */,
+				849C4F72192B3D7700F05EAB /* Landscape-None-Retina.png */,
+				849C4F73192B3D7700F05EAB /* Landscape-Retina.png */,
+				849C4F74192B3D7700F05EAB /* Portrait-Retina.png */,
+			);
+			name = "Заставки";
+			sourceTree = "<group>";
+		};
 		849C94B118FBFC1D00F9218A = {
 			isa = PBXGroup;
 			children = (
@@ -92,6 +151,7 @@
 				849C94BB18FBFC1D00F9218A /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		849C94BB18FBFC1D00F9218A /* Products */ = {
 			isa = PBXGroup;
@@ -131,6 +191,8 @@
 		849C94C418FBFC1D00F9218A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				849C4F6E192B3D5D00F05EAB /* Заставки */,
+				849C4F5B192B300C00F05EAB /* AppIcon2 */,
 				84B2A615191B5CD200C62EE8 /* кнопки */,
 				849C94C518FBFC1D00F9218A /* timer-Info.plist */,
 				849C94C618FBFC1D00F9218A /* InfoPlist.strings */,
@@ -210,7 +272,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 849C94B518FBFC1D00F9218A /* Build configuration list for PBXProject "timer" */;
+			buildConfigurationList = 849C94B518FBFC1D00F9218A /* Build configuration list for PBXProject "Magna GYM TIMER" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -235,10 +297,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				84B2A616191B5CD200C62EE8 /* кнопки in Resources */,
+				849C4F6A192B300C00F05EAB /* Icon-Small.png in Resources */,
+				849C4F78192B3D7700F05EAB /* Landscape-None-Retina.png in Resources */,
+				849C4F69192B300C00F05EAB /* Icon-Small-40@2x.png in Resources */,
 				849C94D418FBFC1D00F9218A /* Main_iPad.storyboard in Resources */,
 				849C94D918FBFC1D00F9218A /* Images.xcassets in Resources */,
+				849C4F68192B300C00F05EAB /* Icon-Small-40.png in Resources */,
+				849C4F7A192B3D7700F05EAB /* Portrait-Retina.png in Resources */,
+				849C4F66192B300C00F05EAB /* Icon-76.png in Resources */,
+				849C4F6C192B300C00F05EAB /* Icon.png in Resources */,
+				849C4F75192B3D7700F05EAB /* Default-568h@2x.png in Resources */,
+				849C4F77192B3D7700F05EAB /* Default@2x.png in Resources */,
 				849C94D118FBFC1D00F9218A /* Main_iPhone.storyboard in Resources */,
+				849C4F6D192B300C00F05EAB /* Icon@2x.png in Resources */,
 				849C94C818FBFC1D00F9218A /* InfoPlist.strings in Resources */,
+				849C4F6B192B300C00F05EAB /* Icon-Small@2x.png in Resources */,
+				849C4F67192B300C00F05EAB /* Icon-76@2x.png in Resources */,
+				849C4F76192B3D7700F05EAB /* Default-Portrait.png in Resources */,
+				849C4F79192B3D7700F05EAB /* Landscape-Retina.png in Resources */,
+				849C4F65192B300C00F05EAB /* Icon-60@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,10 +471,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timer/timer-Prefix.pch";
 				INFOPLIST_FILE = "timer/timer-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -407,10 +487,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timer/timer-Prefix.pch";
 				INFOPLIST_FILE = "timer/timer-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -458,7 +541,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		849C94B518FBFC1D00F9218A /* Build configuration list for PBXProject "timer" */ = {
+		849C94B518FBFC1D00F9218A /* Build configuration list for PBXProject "Magna GYM TIMER" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				849C94ED18FBFC1D00F9218A /* Debug */,

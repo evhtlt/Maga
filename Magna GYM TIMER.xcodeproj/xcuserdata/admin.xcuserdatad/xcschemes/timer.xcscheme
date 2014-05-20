@@ -17,7 +17,7 @@
                BlueprintIdentifier = "849C94B918FBFC1D00F9218A"
                BuildableName = "timer.app"
                BlueprintName = "timer"
-               ReferencedContainer = "container:timer.xcodeproj">
+               ReferencedContainer = "container:Magna GYM TIMER.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "849C94DD18FBFC1D00F9218A"
                BuildableName = "timerTests.xctest"
                BlueprintName = "timerTests"
-               ReferencedContainer = "container:timer.xcodeproj">
+               ReferencedContainer = "container:Magna GYM TIMER.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -45,7 +45,7 @@
             BlueprintIdentifier = "849C94B918FBFC1D00F9218A"
             BuildableName = "timer.app"
             BlueprintName = "timer"
-            ReferencedContainer = "container:timer.xcodeproj">
+            ReferencedContainer = "container:Magna GYM TIMER.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "849C94B918FBFC1D00F9218A"
             BuildableName = "timer.app"
             BlueprintName = "timer"
-            ReferencedContainer = "container:timer.xcodeproj">
+            ReferencedContainer = "container:Magna GYM TIMER.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -82,7 +82,7 @@
             BlueprintIdentifier = "849C94B918FBFC1D00F9218A"
             BuildableName = "timer.app"
             BlueprintName = "timer"
-            ReferencedContainer = "container:timer.xcodeproj">
+            ReferencedContainer = "container:Magna GYM TIMER.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -37,7 +37,8 @@
 - (IBAction)buttomIncTime;
 
 - (IBAction)buttomReset;
-
+@property (strong, nonatomic) IBOutlet UIView *portaitView;
+@property (strong, nonatomic) IBOutlet UIView *landscapeView;
 
 @property (strong, nonatomic) IBOutlet UILabel *timerLabel;
 

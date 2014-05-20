@@ -100,5 +100,8 @@ theTimer = [NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@sel
     [theTimer invalidate];
     theTimer = nil;
 }
-
+- (BOOL)shouldAutorotate
+{
+    return YES;
+}
 @end
