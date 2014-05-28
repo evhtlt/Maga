@@ -35,7 +35,8 @@
     // Notice cap insets are different from above
     
 	// Do any additional setup after loading the view, typically from a nib.
-    
+//self.window.rootViewController = navigationController;
+    //self.view=self.landscapeView;
 }
 
 - (void)didReceiveMemoryWarning

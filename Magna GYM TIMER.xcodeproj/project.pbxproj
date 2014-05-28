@@ -37,6 +37,7 @@
 		849C94E218FBFC1D00F9218A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 849C94C118FBFC1D00F9218A /* UIKit.framework */; };
 		849C94EA18FBFC1D00F9218A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 849C94E818FBFC1D00F9218A /* InfoPlist.strings */; };
 		849C94EC18FBFC1D00F9218A /* timerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 849C94EB18FBFC1D00F9218A /* timerTests.m */; };
+		849E7926192E115E00D06068 /* timer-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 849C94C518FBFC1D00F9218A /* timer-Info.plist */; };
 		84B2A616191B5CD200C62EE8 /* кнопки in Resources */ = {isa = PBXBuildFile; fileRef = 84B2A615191B5CD200C62EE8 /* кнопки */; };
 /* End PBXBuildFile section */
 
@@ -307,6 +308,7 @@
 				849C4F66192B300C00F05EAB /* Icon-76.png in Resources */,
 				849C4F6C192B300C00F05EAB /* Icon.png in Resources */,
 				849C4F75192B3D7700F05EAB /* Default-568h@2x.png in Resources */,
+				849E7926192E115E00D06068 /* timer-Info.plist in Resources */,
 				849C4F77192B3D7700F05EAB /* Default@2x.png in Resources */,
 				849C94D118FBFC1D00F9218A /* Main_iPhone.storyboard in Resources */,
 				849C4F6D192B300C00F05EAB /* Icon@2x.png in Resources */,

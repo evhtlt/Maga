@@ -8,11 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
+
+
+
+
+
+
 @interface ViewController : UIViewController
 {
     int myTime;
     NSTimer *theTimer;
-    
+
 }
 
 - (IBAction)buttomTime30;
@@ -41,7 +47,6 @@
 @property (strong, nonatomic) IBOutlet UIView *landscapeView;
 
 @property (strong, nonatomic) IBOutlet UILabel *timerLabel;
-
 
 
 
